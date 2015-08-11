@@ -2,7 +2,7 @@
 
 ###Puprose:
 
-Provide and interface for customers seeking custom woodwork to get imediate and accurate estimates based on a variety of designs and materials. Key features will include material choice and custom dimension input. Users will be able to recieve and email of this estimate as well as submit it for approval.
+Provide an interface for customers seeking custom furniture to get imediate and accurate estimates based on a variety of designs and materials. Key features will include material choice and custom dimension input. Users will be able to share this estimate as well as submit it for approval.
 
 ###technology needed
 
