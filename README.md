@@ -22,7 +22,7 @@ Provide and interface for customers seeking custom woodwork to get imediate and 
 
 ###Wire Framing
 
-[white board mock up](./wire-frames.JPG)
+![white board mock up](./wire-frames.JPG)
 
 ###Foreseen Difficulties:
 
